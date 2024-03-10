@@ -11,9 +11,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Google Cloud Plaform
 - 💬 Ask me about OpenAPI
 - 📫 How to reach me: patdimby@outlook.fr
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...s
 - ⚡ Fun fact: ...
 -->
-<img alt ="my stats" src ="https://github-readme-stats.vercel.app/api?username=patdimby" />
-
-<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patdimby&layout=compact" />
+<img alt ="my stats" align="left" width="47%" src ="https://github-readme-stats.vercel.app/api?username=patdimby" />
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patdimby&layout=compact" />
