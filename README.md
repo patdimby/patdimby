@@ -23,6 +23,35 @@ Here are some ideas to get you started:
 ###  Cloud
 ![ alt_text ]( https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white )
 ![ alt_text ]( https://img.shields.io/badge/mix%20cloud-5000ff?style=for-the-badge&logo=mixcloud&logoColor=white )
+### Database
+![ alt_text ]( https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white )
+![ alt_text ]( https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white )
+![ alt_text ]( https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white )
+![ alt_text ]( https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white )
+![ alt_text ]( https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white )
+![ alt_text ]( https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white )
+![ alt_text ]( https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white )
+![ alt_text ]( https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white )
+![ alt_text ]( https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white )
+### Languages
+![ alt_text ](  )
+![ alt_text ](  )
+![ alt_text ](  )
+![ alt_text ](  )
+![ alt_text ](  )
+![ alt_text ](  )
+![ alt_text ](  )
+![ alt_text ](  )
+![ alt_text ](  )
+### Frameworks and Library
+![ alt_text ]( https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white )
+![ alt_text ]( https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white )
+![ alt_text ]( https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white )
+![ alt_text ]( https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16 )
+![ alt_text ]( https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white )
+![ alt_text ]( https://img.shields.io/badge/daphne-092E20?style=for-the-badge&logo=django&logoColor=green )
+![ alt_text ]( https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green )
+![ alt_text ](  )
 ### Stats
 <img alt ="my stats" align="left" width="47%" src ="https://github-readme-stats.vercel.app/api?username=patdimby" />
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patdimby&layout=compact" />
