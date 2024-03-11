@@ -6,14 +6,14 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 As a seasoned Python Developer with over twenty years of experience, I have a proven track record of leveraging Python to create robust, scalable, and efficient data-driven solutions. My expertise lies in developing back-end systems, data analytics platforms, and automating complex workflows, which have consistently resulted in increased efficiency and performance for my clients.
+- 🔭 As a seasoned Python Developer with over ten years of experience, I have a proven track record of leveraging Python to create robust, scalable, and efficient data-driven solutions. My expertise lies in developing back-end systems, data analytics platforms, and automating complex workflows, which have consistently resulted in increased efficiency and performance for my clients.
 - 🌱 I am adept at using Python's powerful libraries and frameworks, such as Django, Flask, FastAPI, and Pandas, to solve real-world problems. My approach is always centered around writing clean, maintainable code that adheres to best practices. I am also skilled in integrating APIs and have a strong understanding of database design and SQL.
 - 👯 My proficiency in Python extends to libraries such as TensorFlow, Keras, and scikit-learn, which I use to develop predictive models and intelligent systems. I am committed to staying at the forefront of technology, and I actively engage with the latest research to apply cutting-edge techniques in my work.
-- 🤔 I’m looking for help with Google Cloud Plaform
+- 🤔 NET Developer with twenty years of experience developing web, batch, and business intelligence solutions using ASP.NET, C#.NET, SharePoint, and MS SQL. Expertise in requirements analysis, design, development, testing, maintenance, enhancement, and production support of business applications. Certified Web Development Professional with a deep passion for technology, extensive technological expertise, and well-developed teamwork abilities.
 - 💬 Ask me about OpenAPI
 - 📫 How to reach me: patdimby@outlook.fr
 - 😄 Pronouns: patdimby
-- ⚡ Fun fact: Python
+- ⚡ Fun fact: Python, C++, .NET C#
 ## 2. Most used technologies
 ### Artificial Intelligence
 ![ alt_text ]( https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white )
