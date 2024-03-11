@@ -1,4 +1,4 @@
-### Hi there 👋
+## 1. Hi there 👋
 
 <!--
 **patdimby/patdimby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: patdimby@outlook.fr
 - 😄 Pronouns: patdimby
 - ⚡ Fun fact: Python
-
+## 2. Most used technologies
 ### Artificial Intelligence
 ![ alt_text ]( https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white )
 ![ alt_text ]( https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white )
@@ -62,7 +62,15 @@ Here are some ideas to get you started:
 ![ alt_text ]( https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white )
 ![ alt_text ]( https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB )
 ![ alt_text ]( https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white )
-### Statistics
+## 3. Contributors Badge
+![Your Repository's Stats](https://contrib.rocks/image?repo=patdimby/Python)
+## 4. Random Joke Generator
+![Jokes Card](https://readme-jokes.vercel.app/api)
+## 5. Profile View Counter
+![Profile View Counter](https://komarev.com/ghpvc/?username=patdimby)
+### Repository View Counter - HITS
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/patdimby/Python)
+## 6. Statistics
 <img alt ="my stats" align="left" width="47%" src ="https://github-readme-stats.vercel.app/api?username=patdimby" />
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patdimby&layout=compact" />
 
