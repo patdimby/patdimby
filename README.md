@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 ![ alt_text ]( https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white )
 ![ alt_text ]( https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white )
 ### Languages
-![ alt_text ](  )
-![ alt_text ](  )
-![ alt_text ](  )
-![ alt_text ](  )
-![ alt_text ](  )
-![ alt_text ](  )
-![ alt_text ](  )
+![ alt_text ]( https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white )
+![ alt_text ]( https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white )
+![ alt_text ]( https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white )
+![ alt_text ]( https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white )
+![ alt_text ]( https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white )
+![ alt_text ]( https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black )
+![ alt_text ]( https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white )
 ![ alt_text ](  )
 ![ alt_text ](  )
 ### Frameworks and Library
@@ -62,10 +62,7 @@ Here are some ideas to get you started:
 ![ alt_text ]( https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white )
 ![ alt_text ]( https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB )
 ![ alt_text ]( https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white )
-![ alt_text ](  )
-![ alt_text ](  )
-![ alt_text ](  )
-![ alt_text ](  )
+
 ### Stats
 <img alt ="my stats" align="left" width="47%" src ="https://github-readme-stats.vercel.app/api?username=patdimby" />
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patdimby&layout=compact" />
