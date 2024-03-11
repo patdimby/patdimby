@@ -1,4 +1,4 @@
-## 1. Hi there 👋
+## 1. Hi all👋, I am Patrick
 
 <!--
 **patdimby/patdimby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Deep Learning
-- 🌱 I’m currently learning PHP
-- 👯 I’m looking to collaborate on Data Engineering
+- 🔭 As a seasoned Python Developer with over twenty years of experience, I have a proven track record of leveraging Python to create robust, scalable, and efficient data-driven solutions. My expertise lies in developing back-end systems, data analytics platforms, and automating complex workflows, which have consistently resulted in increased efficiency and performance for my clients.
+- 🌱 I am adept at using Python's powerful libraries and frameworks, such as Django, Flask, FastAPI, and Pandas, to solve real-world problems. My approach is always centered around writing clean, maintainable code that adheres to best practices. I am also skilled in integrating APIs and have a strong understanding of database design and SQL.
+- 👯 My proficiency in Python extends to libraries such as TensorFlow, Keras, and scikit-learn, which I use to develop predictive models and intelligent systems. I am committed to staying at the forefront of technology, and I actively engage with the latest research to apply cutting-edge techniques in my work.
 - 🤔 I’m looking for help with Google Cloud Plaform
 - 💬 Ask me about OpenAPI
 - 📫 How to reach me: patdimby@outlook.fr
