@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ###  Cloud
 ![ alt_text ]( https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white )
 ![ alt_text ]( https://img.shields.io/badge/mix%20cloud-5000ff?style=for-the-badge&logo=mixcloud&logoColor=white )
+### Stats
 <img alt ="my stats" align="left" width="47%" src ="https://github-readme-stats.vercel.app/api?username=patdimby" />
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patdimby&layout=compact" />
 
