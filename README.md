@@ -41,8 +41,9 @@ Here are some ideas to get you started:
 ![ alt_text ]( https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white )
 ![ alt_text ]( https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black )
 ![ alt_text ]( https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white )
-![ alt_text ](  )
-![ alt_text ](  )
+![ alt_text ]( https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E )
+![ alt_text ]( https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white )
+![ alt_text ](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ### Frameworks and Library
 ![ alt_text ]( https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white )
 ![ alt_text ]( https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white )
@@ -62,6 +63,8 @@ Here are some ideas to get you started:
 ![ alt_text ]( https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white )
 ![ alt_text ]( https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB )
 ![ alt_text ]( https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white )
+![ alt_text ]( https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E )
+![ alt_text ]( https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D )
 ## 3. Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ## 4. Profile View Counter
