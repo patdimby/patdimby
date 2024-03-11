@@ -62,8 +62,7 @@ Here are some ideas to get you started:
 ![ alt_text ]( https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white )
 ![ alt_text ]( https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB )
 ![ alt_text ]( https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white )
-
-### Stats
+### Statistics
 <img alt ="my stats" align="left" width="47%" src ="https://github-readme-stats.vercel.app/api?username=patdimby" />
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patdimby&layout=compact" />
 
