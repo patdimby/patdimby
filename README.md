@@ -6,14 +6,14 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Currently working at Indero,  Dimbisoa specializes in architecting end-to-end data solutions using tools like Apache Spark, Kafka, Airflow, and modern data warehouses such as Snowflake, BigQuery, and Redshift. With a strong background in Python, SQL, and distributed systems, they ensure data systems are efficient, secure, and production-ready.  
+- 🔭 Currently working at Indero,  Dimbisoa specializes in architecting end-to-end data solutions using tools like Apache Spark, Kafka, Airflow, and modern data warehouses such as Snowflake, BigQuery, and Redshift. With a strong background in Python, Java, Scala and SQL, and distributed systems, they ensure data systems are efficient, secure, and production-ready.  
 - 🌱 A proactive collaborator with data scientists, analysts, and DevOps teams, I champions best practices in data governance, ETL/ELT design, and infrastructure as code. Their work has directly contributed to scalable analytics platforms, ML model deployment pipelines, and compliance-ready data frameworks.
 - 👯  I specializes in leveraging frameworks like Spring Boot, Hibernate, and Jakarta EE to build secure, maintainable, and efficient applications. Known for writing clean, testable code and applying design patterns effectively, they are a strong advocate of software engineering best practices including TDD, CI/CD, and Agile methodologies.
-- 🤔 NET Developer with twenty years of experience developing web, batch, and business intelligence solutions using ASP.NET, C#.NET, SharePoint, and MS SQL. Expertise in requirements analysis, design, development, testing, maintenance, enhancement, and production support of business applications. Certified Web Development Professional with a deep passion for technology, extensive technological expertise, and well-developed teamwork abilities.
-- 💬 Ask me about OpenAPI
+- 🤔 NET and Java Developer with twenty years of experience developing web, batch, and business intelligence solutions using ASP.NET, C#.NET, Struts, JSP, JSF. Expertise in requirements analysis, design, development, testing, maintenance, enhancement, and production support of business applications. Certified Web Development Professional with a deep passion for technology, extensive technological expertise, and well-developed teamwork abilities.
+- 💬 Ask me about Spark, OpenAPI
 - 📫 How to reach me: patdimby@outlook.fr
 - 😄 Pronouns: patdimby
-- ⚡ Fun fact: Python, Java, .NET C#
+- ⚡ Fun fact: Python, Java, .NET C#, Scala
 ## 2. Most used technologies
 ### Artificial Intelligence
 ![ alt_text ]( https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white )
